@@ -1,4 +1,4 @@
-<img align="center" alt="MasterHead" src="https://www.trio.dev/hubfs/Imported_Blog_Media/263a75529a1752b75d64f9f21fd07c92-3-2.jpg">
+<img align="center" alt="MasterHead" width="auto" src="https://www.trio.dev/hubfs/Imported_Blog_Media/263a75529a1752b75d64f9f21fd07c92-3-2.jpg">
 
 <h1 align="center">Hi 👋, I'm Amancio Rodrigues Pires</h1>
 <h3 align="center">Computer Engineering student</h3>
